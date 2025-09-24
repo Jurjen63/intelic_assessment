@@ -1,6 +1,6 @@
 # Intelic Assignment 
 
-This private GitHub repository contains my solutions for the Intelic assignment (see [here](./SE%20-%20assessment%201%20-%20pathplanner%20-%20English%20-%20short.md) for the original description.)
+This GitHub repository contains my solutions for the Intelic assignment (see [here](./SE%20-%20assessment%201%20-%20pathplanner%20-%20English%20-%20short.md) for the original description.)
 
 ![Single-drone 20 grid example](results/20/1/51_SD_GRHP_d2_t25_T500_p50_h3.png)
 
